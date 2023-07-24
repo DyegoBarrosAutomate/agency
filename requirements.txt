@@ -1,0 +1,11 @@
+Flask
+Jinja2
+mysql.connector.python
+datetime
+cryptocode
+uuid
+gunicorn
+asyncio
+websockets
+getmac
+num2words

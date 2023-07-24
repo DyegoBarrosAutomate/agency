@@ -1,0 +1,14 @@
+{
+    "empresa":"bde2e5bc-0c48-4aa8-972f-68a80219dc9b",
+    "host":"localhost",
+    "port":5001,
+    "pacote":2048,
+    "log_file":"c:/Automate Brasil/SRS_cloud/LOG/",
+    "job_file":"c:/Automate Brasil/SRS_cloud/JOB/",
+    "rec_file":"c:/Automate Brasil/SRS_cloud/REC/",
+    "expurgo":90,
+    "log_trace":1,
+    "log_alert":1,
+    "log_warning":1,
+    "log_danger":1
+}

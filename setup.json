@@ -1,0 +1,17 @@
+{
+    "empresa":"16fec13d-8c4b-45e4-a68c-1393814f63f8",
+    "host":"localhost",
+    "port":2979,
+    "pacote":2048,
+    "dbhost":"localhost",
+    "dbuser":"srsuser",
+    "database":"SRSCloud",
+    "log_file":"agency/",
+    "job_file":"agency/",
+    "rec_file":"agency/",
+    "expurgo":90,
+    "log_trace":1,
+    "log_alert":1,
+    "log_warning":1,
+    "log_danger":1
+}
